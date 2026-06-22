@@ -1,6 +1,6 @@
 # 📊 Online Retail Data Visualization — Empowering Business with Effective Insights
 
-A data analytics project simulating a real-world consulting engagement: cleaning a UK-based online retailer's transaction data and building Tableau visualizations to answer key business questions from the CEO and CMO.
+
 
 > This project was completed as part of the **Tata Group (Tata iQ) Data Visualization Job Simulation**, hosted on Forage.
 
@@ -80,6 +80,3 @@ Rather than applying one blanket cleaning rule to the entire dataset, cleaning w
 
 
 
-
-Build a key-account retention program for top revenue-generating customers
-Improve Customer ID capture at checkout to enable deeper future segmentation
