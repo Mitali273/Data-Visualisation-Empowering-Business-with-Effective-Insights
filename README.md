@@ -4,7 +4,7 @@
 
 > This project was completed as part of the **Tata Group (Tata iQ) Data Visualization Job Simulation**, hosted on Forage.
 
----
+
 
 ## 🧾 Project Overview
 
